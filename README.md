@@ -8,3 +8,7 @@
   git
   exiftool
   显卡驱动：https://blog.csdn.net/Perfect886/article/details/119109380?spm=1001.2101.3001.6650.4&utm_medium=distribute.pc_relevant.none-task-blog-2%7Edefault%7ECTRLIST%7ERate-4-119109380-blog-128015155.235%5Ev38%5Epc_relevant_anti_t3_base&depth_1-utm_source=distribute.pc_relevant.none-task-blog-2%7Edefault%7ECTRLIST%7ERate-4-119109380-blog-128015155.235%5Ev38%5Epc_relevant_anti_t3_base&utm_relevant_index=9
+  安装完毕之后可能需要解决检测不到显示器的问题
+
+  **安装node.js,npm**
+  npm install -g asar#安装、asar
