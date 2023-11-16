@@ -12,3 +12,4 @@
 
 ```bash
 npm install -g asar
+- 亮度无法调节时，可以安装第三方软件实现亮度调节：[brightness-controller]https://blog.csdn.net/qq_42928559/article/details/122754574?spm=1001.2101.3001.6650.5&utm_medium=distribute.pc_relevant.none-task-blog-2%7Edefault%7ECTRLIST%7ERate-5-122754574-blog-124334438.235%5Ev38%5Epc_relevant_anti_t3_base&depth_1-utm_source=distribute.pc_relevant.none-task-blog-2%7Edefault%7ECTRLIST%7ERate-5-122754574-blog-124334438.235%5Ev38%5Epc_relevant_anti_t3_base&utm_relevant_index=9
